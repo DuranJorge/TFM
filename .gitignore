@@ -1,0 +1,19 @@
+# Datasets
+data/
+*.csv
+*.parquet
+
+# Modelos y artefactos
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
