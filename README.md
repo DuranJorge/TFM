@@ -205,3 +205,4 @@ Universidad Internacional de Valencia (VIU)
 
 ## Version
 Version 0.1.0 - Se inicializa el repositorio con arquetipo actualizado al 04/10/2026
+Version 0.1.1 - Se regulariza el repositorio con arquetipo actualizado al 12/10/2026
